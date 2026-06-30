@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
+| [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
 |  |
@@ -52,16 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
+| [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 ## Graph Theory
 |  |
 | ------- |
