@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
 ## Matrix
@@ -63,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
