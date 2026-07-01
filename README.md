@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 ## Depth-First Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 ## Graph Theory
 |  |
