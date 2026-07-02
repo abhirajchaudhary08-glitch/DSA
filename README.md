@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 ## String
 |  |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
