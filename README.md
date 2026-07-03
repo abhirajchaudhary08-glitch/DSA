@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0841-keys-and-rooms) |
 ## Hash Table
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
