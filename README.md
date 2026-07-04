@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
 ## Divide and Conquer
 |  |
 | ------- |
