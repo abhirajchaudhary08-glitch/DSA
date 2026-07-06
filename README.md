@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0152-maximum-product-subarray) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
