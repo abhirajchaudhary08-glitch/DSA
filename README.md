@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1929-concatenation-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
