@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0213-house-robber-ii) |
@@ -145,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 ## Backtracking
