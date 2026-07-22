@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0027-remove-element) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0055-jump-game) |
