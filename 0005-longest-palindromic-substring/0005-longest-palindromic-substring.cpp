@@ -1,36 +1,33 @@
 class Solution {
 public:
-    bool ispalindrome(const string& str){
-       int left = 0;
-       int right = str.length()-1;
-       while(left<right){
-        if(str[left]!=str[right]){
-            return false;
-        }else{
-            left++;
-            right--;
-        }
-       }
-        return true;
-    }
     string longestPalindrome(string s) {
-       if (s.length() <= 1) {
-            return s;
-        }
-        
-        int max_len = 1;
-        string max_str = s.substr(0, 1);
-        
-        for (int i = 0; i < s.length(); ++i) {
-            for (int j = i + max_len; j <= s.length(); ++j) {
-                if (j - i > max_len && ispalindrome(s.substr(i, j - i))) {
-                    max_len = j - i;
-                    max_str = s.substr(i, j - i);
-                }
+
+        int n = s.size();
+        if (n == 0) return "";
+
+        int rleft = 0;
+        int rright = 0;
+        int curMax = 1;
+
+        for (int i = 0; i < 2 * n - 1; i++) {
+
+            int l = i / 2;
+            int r = (i % 2 == 0) ? l : l + 1;
+            if (s[l] != s[r]) continue;
+            while (l > 0 && r < n - 1 && s[l - 1] == s[r + 1]) {
+                l--;
+                r++;
+            }
+
+            int length = r - l + 1;
+
+            if (length > curMax) {
+                curMax = length;
+                rleft = l;
+                rright = r;
             }
         }
 
-        return max_str;
-
+        return s.substr(rleft, curMax);
     }
 };
