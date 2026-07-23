@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
