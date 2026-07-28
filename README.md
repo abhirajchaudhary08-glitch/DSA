@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
