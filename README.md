@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
