@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1034-coloring-a-border) |
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 ## Union-Find
 |  |
 | ------- |
