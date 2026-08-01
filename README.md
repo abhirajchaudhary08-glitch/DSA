@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0055-jump-game) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Simulation
 |  |
