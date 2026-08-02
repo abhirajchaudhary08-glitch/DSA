@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1929-concatenation-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
