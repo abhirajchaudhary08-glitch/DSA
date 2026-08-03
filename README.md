@@ -335,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
