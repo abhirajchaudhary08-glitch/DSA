@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1929-concatenation-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -321,12 +324,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
+| [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
