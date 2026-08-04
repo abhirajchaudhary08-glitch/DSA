@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
