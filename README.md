@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Union-Find
 |  |
