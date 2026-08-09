@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0994-rotting-oranges) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0740-delete-and-earn](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0740-delete-and-earn](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
