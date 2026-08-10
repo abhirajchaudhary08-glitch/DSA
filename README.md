@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
@@ -378,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
