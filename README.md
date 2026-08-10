@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
