@@ -8,7 +8,7 @@ public:
     int next(int price) {
         int span = 1;
         while(!st.empty() and st.top().first<=price){
-            span=span+st.top().second;
+            span+=st.top().second;
             st.pop();
         }
         st.push({price,span});
