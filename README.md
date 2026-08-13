@@ -331,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -395,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
