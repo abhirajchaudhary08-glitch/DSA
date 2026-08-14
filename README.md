@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0223-rectangle-area](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
