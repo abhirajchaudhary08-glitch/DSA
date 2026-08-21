@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3895-count-digit-appearances](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4024-nearest-available-drone](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/4024-nearest-available-drone) |
 ## Counting Sort
 |  |
 | ------- |
