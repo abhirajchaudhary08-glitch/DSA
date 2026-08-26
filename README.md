@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Bracket Sequences
 |  |
