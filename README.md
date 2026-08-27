@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0740-delete-and-earn](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
