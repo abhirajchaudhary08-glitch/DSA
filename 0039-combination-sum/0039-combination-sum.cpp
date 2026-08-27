@@ -1,28 +1,22 @@
+#define ll long long
 class Solution {
 public:
-    vector<vector<int>> result;
-    void f(vector<int> &cand, int t,int idx,vector<int> &subset){
-        if(t==0){
-            // we found a subset which sums to target
-            result.push_back(subset);
+    vector<vector<int>> ans;
+    void f(int i,int n,vector<int>& v,ll sm,int target,vector<int> res){
+        if(i==n){
+            if(sm==target){
+                ans.push_back(res);
+            }
             return;
         }
-        if(idx==cand.size()) return;
-        if(cand[idx]<=t){
-            subset.push_back(cand[idx]);
-            f(cand,t-cand[idx],idx,subset);
-            subset.pop_back();
-        }
-        int j = idx+1;
-        // while(j<cand.size() and cand[j]==cand[j-1]) j++;
-        f(cand,t,j,subset);
+        f(i+1,n,v,sm,target,res);
+        res.push_back(v[i]);
+        if(sm+v[i]<=target)
+        f(i,n,v,sm+v[i],target,res);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
-        sort(candidates.begin(),candidates.end());
-        vector<int> subset;
-        result.clear();
-        f(candidates,target,0,subset);
-        return result;
+        vector<int> res;
+        f(0,candidates.size(),candidates,0ll,target,res);
+        return ans;
     }
 };
