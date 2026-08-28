@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0279-perfect-squares) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
