@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bracket Sequences
 |  |
 | ------- |
