@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1143-longest-common-subsequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-sum-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1927-sum-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
