@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4024-nearest-available-drone](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/4024-nearest-available-drone) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
