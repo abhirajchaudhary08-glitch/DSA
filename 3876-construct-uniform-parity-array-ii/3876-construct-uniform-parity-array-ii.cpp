@@ -1,19 +1,26 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {
-        int mn = nums1[0];
-        bool hasOdd = false;
-        for (int v : nums1) {
-            if (v < mn) {
-                mn = v;
-            }
-            if (v & 1) {
-                hasOdd = true;
+    bool uniformArray(vector<int>& arr) {
+        int n=arr.size();
+        int e=0;
+        int o=0;
+        int smallest_odd=INT_MAX;
+        for(int i=0;i<n;i++){
+            if(arr[i]%2==0) e++;
+            else {
+                o++;
+                smallest_odd=min(smallest_odd,arr[i]);
             }
         }
-        if (mn & 1) {
-            return true;
+        if(e==n) return true;
+        else if(o==n) return true;
+        else {
+           for(int i=0;i<n;i++){
+               if(arr[i] % 2==0){
+                   if(arr[i]<smallest_odd) return false;
+               }
+           } 
         }
-        return !hasOdd;
+    return true;
     }
 };
