@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3903-smallest-stable-index-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
