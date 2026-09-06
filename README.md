@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
