@@ -12,19 +12,32 @@
 // }
 
 // return ct;
-    class Solution {
+//     class Solution {
+// public:
+//     int countDigitOccurrences(vector<int>& nums, int digit) {
+//         int count=0;
+
+//         for(int n:nums){
+//             while(n){
+//                 int r=n%10;
+//                 n/=10;
+//                 if(r==digit)    count++;
+//             }
+//         }
+//         return count;
+//     }
+// };
+class Solution {
 public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        int count=0;
-
-        for(int n:nums){
-            while(n){
-                int r=n%10;
-                n/=10;
-                if(r==digit)    count++;
+        int c=0;
+        for(int i=0;i<nums.size();i++){
+            int k=nums[i];
+            while(k>0){
+                if(k%10==digit)c++;
+                k/=10;
             }
         }
-        return count;
+        return c;
     }
-};
-    
+};    
