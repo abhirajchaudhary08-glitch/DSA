@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -486,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
