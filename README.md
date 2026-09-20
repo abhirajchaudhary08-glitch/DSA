@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
