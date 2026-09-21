@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
