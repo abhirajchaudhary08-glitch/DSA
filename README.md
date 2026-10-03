@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3945-digit-frequency-score) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/4024-nearest-available-drone) |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
