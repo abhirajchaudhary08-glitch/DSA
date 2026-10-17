@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
