@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0740-delete-and-earn) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Two Pointers
@@ -541,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
