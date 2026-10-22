@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3945-digit-frequency-score) |
