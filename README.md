@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
