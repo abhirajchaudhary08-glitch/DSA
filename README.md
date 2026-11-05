@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [2007-find-original-array-from-doubled-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
