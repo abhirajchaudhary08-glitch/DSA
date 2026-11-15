@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0658-find-k-closest-elements) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |
