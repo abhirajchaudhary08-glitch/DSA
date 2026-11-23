@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1048-longest-string-chain) |
 | [1254-number-of-closed-islands](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1254-number-of-closed-islands) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1690-stone-game-vii](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1690-stone-game-vii) |
@@ -552,10 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
