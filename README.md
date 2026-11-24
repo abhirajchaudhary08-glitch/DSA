@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhirajchaudhary08-glitch/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
